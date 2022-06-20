@@ -449,7 +449,7 @@ body {
   background-color: transparent;
   border: none;
   border-bottom: 1px solid var(--color-input);
-  border-radius: none;
+  -webkit-border-radius: 0;
   outline: none;
   color: var(--color-white);
   transition: border-bottom 0.3s ease-in-out;
