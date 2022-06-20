@@ -1830,6 +1830,7 @@ body {
 
 .events__pagination .swiper-pagination-bullet {
   margin-right: 25px;
+  outline: none;
 }
 
 .events__pagination .swiper-pagination-bullet-active {
