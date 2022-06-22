@@ -387,7 +387,7 @@ body {
   content: "";
   position: absolute;
   z-index: 5;
-  left: calc(100% + 4px);
+  left: calc(100% + 7px);
   top: 40%;
   width: 6px;
   height: 6px;
