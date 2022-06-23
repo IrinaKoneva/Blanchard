@@ -1601,6 +1601,10 @@ body {
   transition: color 0.3s ease-in-out, border-color 0.3s ease-in-out;
 }
 
+.catalog__accordion-tabs-link.tab-active {
+  color: var(--color-link);
+}
+
 .catalog__accordion-tabs-link:hover:not(:active) {
   color: var(--color-link);
   border-color: var(--color-link);
